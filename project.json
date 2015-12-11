@@ -1,0 +1,10 @@
+{
+    "name": "9_10_21",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "9_10_21.xml",
+    "author": "miss1der",
+    "minimum_firmware_version": 42
+}
